@@ -3,6 +3,8 @@
 ## How to run
 
 * clone the repository [https://github.com/manager428/Py_scrap_dataAnalysis.git]
+
+
 * `python -m venv venv`
 * `source venv/bin/activate`
 * run `pip install -r requirements.txt`
